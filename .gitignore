@@ -1,0 +1,46 @@
+# Fichiers et dossiers générés par Flutter
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/App.framework
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/.symlinks/
+
+# Fichiers et dossiers générés par Dart
+**/packages
+*.part
+
+# Fichiers et dossiers générés par Xcode
+**/xcuserdata
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.xccheckout
+*.xcuserstate
+
+# Dossiers de build et de publication
+**/build/
+**/ios/.generated/
+
+# Fichiers générés par Android Studio
+**/.idea/
+**/.gradle/
+
+# Fichiers générés par VS Code
+**/.vscode/
+
+# Fichiers générés par le système
+.DS_Store
+*.swp
+*.lock
+*.bak
+*.tmp
+*.swm
+*.swo
